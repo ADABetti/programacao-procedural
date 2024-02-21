@@ -1,0 +1,14 @@
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\bin\Debug\net8.0\tipos-primitivos.exe
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\bin\Debug\net8.0\tipos-primitivos.deps.json
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\bin\Debug\net8.0\tipos-primitivos.runtimeconfig.json
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\bin\Debug\net8.0\tipos-primitivos.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\bin\Debug\net8.0\tipos-primitivos.pdb
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\obj\Debug\net8.0\tipos-primitivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\obj\Debug\net8.0\tipos-primitivos.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\obj\Debug\net8.0\tipos-primitivos.AssemblyInfo.cs
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\obj\Debug\net8.0\tipos-primitivos.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\obj\Debug\net8.0\tipos-primitivos.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\obj\Debug\net8.0\refint\tipos-primitivos.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\obj\Debug\net8.0\tipos-primitivos.pdb
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\obj\Debug\net8.0\tipos-primitivos.genruntimeconfig.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\tipos-primitivos\obj\Debug\net8.0\ref\tipos-primitivos.dll

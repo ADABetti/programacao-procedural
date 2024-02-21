@@ -1,0 +1,14 @@
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\bin\Debug\net8.0\7-boolean.exe
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\bin\Debug\net8.0\7-boolean.deps.json
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\bin\Debug\net8.0\7-boolean.runtimeconfig.json
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\bin\Debug\net8.0\7-boolean.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\bin\Debug\net8.0\7-boolean.pdb
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\obj\Debug\net8.0\7-boolean.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\obj\Debug\net8.0\7-boolean.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\obj\Debug\net8.0\7-boolean.AssemblyInfo.cs
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\obj\Debug\net8.0\7-boolean.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\obj\Debug\net8.0\7-boolean.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\obj\Debug\net8.0\refint\7-boolean.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\obj\Debug\net8.0\7-boolean.pdb
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\obj\Debug\net8.0\7-boolean.genruntimeconfig.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\7-boolean\obj\Debug\net8.0\ref\7-boolean.dll

@@ -1,0 +1,14 @@
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\obj\Debug\net8.0\5-modulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\obj\Debug\net8.0\5-modulo.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\obj\Debug\net8.0\5-modulo.AssemblyInfo.cs
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\obj\Debug\net8.0\5-modulo.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\bin\Debug\net8.0\5-modulo.exe
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\bin\Debug\net8.0\5-modulo.deps.json
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\bin\Debug\net8.0\5-modulo.runtimeconfig.json
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\bin\Debug\net8.0\5-modulo.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\bin\Debug\net8.0\5-modulo.pdb
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\obj\Debug\net8.0\5-modulo.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\obj\Debug\net8.0\refint\5-modulo.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\obj\Debug\net8.0\5-modulo.pdb
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\obj\Debug\net8.0\5-modulo.genruntimeconfig.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\5-modulo\obj\Debug\net8.0\ref\5-modulo.dll

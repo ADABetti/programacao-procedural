@@ -1,0 +1,14 @@
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.exe
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.deps.json
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.runtimeconfig.json
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\bin\Debug\net8.0\primeiroProjeto.pdb
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.AssemblyInfo.cs
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\obj\Debug\net8.0\refint\primeiroProjeto.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.pdb
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\obj\Debug\net8.0\primeiroProjeto.genruntimeconfig.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula1\primeiroProjeto\obj\Debug\net8.0\ref\primeiroProjeto.dll

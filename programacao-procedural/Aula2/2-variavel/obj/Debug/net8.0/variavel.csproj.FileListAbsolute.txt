@@ -1,0 +1,14 @@
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\bin\Debug\net8.0\variavel.exe
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\bin\Debug\net8.0\variavel.deps.json
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\bin\Debug\net8.0\variavel.runtimeconfig.json
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\bin\Debug\net8.0\variavel.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\bin\Debug\net8.0\variavel.pdb
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\obj\Debug\net8.0\variavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\obj\Debug\net8.0\variavel.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\obj\Debug\net8.0\variavel.AssemblyInfo.cs
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\obj\Debug\net8.0\variavel.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\obj\Debug\net8.0\variavel.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\obj\Debug\net8.0\refint\variavel.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\obj\Debug\net8.0\variavel.pdb
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\obj\Debug\net8.0\variavel.genruntimeconfig.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula2\variavel\obj\Debug\net8.0\ref\variavel.dll

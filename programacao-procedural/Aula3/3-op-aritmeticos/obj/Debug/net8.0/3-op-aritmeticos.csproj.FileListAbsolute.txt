@@ -1,0 +1,14 @@
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\bin\Debug\net8.0\3-op-aritmeticos.exe
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\bin\Debug\net8.0\3-op-aritmeticos.deps.json
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\bin\Debug\net8.0\3-op-aritmeticos.runtimeconfig.json
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\bin\Debug\net8.0\3-op-aritmeticos.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\bin\Debug\net8.0\3-op-aritmeticos.pdb
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\obj\Debug\net8.0\3-op-aritmeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\obj\Debug\net8.0\3-op-aritmeticos.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\obj\Debug\net8.0\3-op-aritmeticos.AssemblyInfo.cs
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\obj\Debug\net8.0\3-op-aritmeticos.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\obj\Debug\net8.0\3-op-aritmeticos.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\obj\Debug\net8.0\refint\3-op-aritmeticos.dll
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\obj\Debug\net8.0\3-op-aritmeticos.pdb
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\obj\Debug\net8.0\3-op-aritmeticos.genruntimeconfig.cache
+C:\Users\Note\Desktop\programandoSeuFuturo\Aula3\3-op-aritmeticos\obj\Debug\net8.0\ref\3-op-aritmeticos.dll
