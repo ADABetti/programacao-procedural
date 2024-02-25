@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\obj\Debug\net8.0\05-condicao-aninhada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\obj\Debug\net8.0\05-condicao-aninhada.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\obj\Debug\net8.0\05-condicao-aninhada.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\obj\Debug\net8.0\05-condicao-aninhada.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\obj\Debug\net8.0\05-condicao-aninhada.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\bin\Debug\net8.0\05-condicao-aninhada.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\bin\Debug\net8.0\05-condicao-aninhada.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\bin\Debug\net8.0\05-condicao-aninhada.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\bin\Debug\net8.0\05-condicao-aninhada.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\bin\Debug\net8.0\05-condicao-aninhada.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\obj\Debug\net8.0\05-condicao-aninhada.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\obj\Debug\net8.0\refint\05-condicao-aninhada.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\obj\Debug\net8.0\05-condicao-aninhada.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\obj\Debug\net8.0\05-condicao-aninhada.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\05-condicao-aninhada\obj\Debug\net8.0\ref\05-condicao-aninhada.dll

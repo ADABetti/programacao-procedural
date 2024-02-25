@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\obj\Debug\net8.0\06-operador-ternario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\obj\Debug\net8.0\06-operador-ternario.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\obj\Debug\net8.0\06-operador-ternario.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\obj\Debug\net8.0\06-operador-ternario.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\obj\Debug\net8.0\06-operador-ternario.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\bin\Debug\net8.0\06-operador-ternario.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\bin\Debug\net8.0\06-operador-ternario.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\bin\Debug\net8.0\06-operador-ternario.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\bin\Debug\net8.0\06-operador-ternario.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\bin\Debug\net8.0\06-operador-ternario.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\obj\Debug\net8.0\06-operador-ternario.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\obj\Debug\net8.0\refint\06-operador-ternario.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\obj\Debug\net8.0\06-operador-ternario.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\obj\Debug\net8.0\06-operador-ternario.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula5\06-operador-ternario\obj\Debug\net8.0\ref\06-operador-ternario.dll
