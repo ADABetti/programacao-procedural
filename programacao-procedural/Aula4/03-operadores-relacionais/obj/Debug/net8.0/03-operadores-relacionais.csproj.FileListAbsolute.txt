@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\bin\Debug\net8.0\03-operadores-relacionais.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\bin\Debug\net8.0\03-operadores-relacionais.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\bin\Debug\net8.0\03-operadores-relacionais.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\bin\Debug\net8.0\03-operadores-relacionais.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\bin\Debug\net8.0\03-operadores-relacionais.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\obj\Debug\net8.0\03-operadores-relacionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\obj\Debug\net8.0\03-operadores-relacionais.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\obj\Debug\net8.0\03-operadores-relacionais.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\obj\Debug\net8.0\03-operadores-relacionais.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\obj\Debug\net8.0\03-operadores-relacionais.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\obj\Debug\net8.0\03-operadores-relacionais.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\obj\Debug\net8.0\refint\03-operadores-relacionais.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\obj\Debug\net8.0\03-operadores-relacionais.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\obj\Debug\net8.0\03-operadores-relacionais.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\03-operadores-relacionais\obj\Debug\net8.0\ref\03-operadores-relacionais.dll

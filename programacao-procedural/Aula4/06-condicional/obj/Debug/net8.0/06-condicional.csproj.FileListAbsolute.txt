@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\obj\Debug\net8.0\06-condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\obj\Debug\net8.0\06-condicional.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\obj\Debug\net8.0\06-condicional.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\obj\Debug\net8.0\06-condicional.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\obj\Debug\net8.0\06-condicional.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\bin\Debug\net8.0\06-condicional.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\bin\Debug\net8.0\06-condicional.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\bin\Debug\net8.0\06-condicional.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\bin\Debug\net8.0\06-condicional.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\bin\Debug\net8.0\06-condicional.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\obj\Debug\net8.0\06-condicional.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\obj\Debug\net8.0\refint\06-condicional.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\obj\Debug\net8.0\06-condicional.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\obj\Debug\net8.0\06-condicional.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\06-condicional\obj\Debug\net8.0\ref\06-condicional.dll

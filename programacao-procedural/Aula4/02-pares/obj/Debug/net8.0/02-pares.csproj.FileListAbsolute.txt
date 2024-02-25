@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\bin\Debug\net8.0\02-pares.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\bin\Debug\net8.0\02-pares.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\bin\Debug\net8.0\02-pares.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\bin\Debug\net8.0\02-pares.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\bin\Debug\net8.0\02-pares.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\obj\Debug\net8.0\02-pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\obj\Debug\net8.0\02-pares.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\obj\Debug\net8.0\02-pares.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\obj\Debug\net8.0\02-pares.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\obj\Debug\net8.0\02-pares.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\obj\Debug\net8.0\02-pares.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\obj\Debug\net8.0\refint\02-pares.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\obj\Debug\net8.0\02-pares.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\obj\Debug\net8.0\02-pares.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\02-pares\obj\Debug\net8.0\ref\02-pares.dll

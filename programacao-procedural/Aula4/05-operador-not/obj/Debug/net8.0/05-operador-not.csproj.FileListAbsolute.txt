@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\bin\Debug\net8.0\05-operador-not.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\bin\Debug\net8.0\05-operador-not.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\bin\Debug\net8.0\05-operador-not.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\bin\Debug\net8.0\05-operador-not.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\bin\Debug\net8.0\05-operador-not.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\obj\Debug\net8.0\05-operador-not.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\obj\Debug\net8.0\05-operador-not.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\obj\Debug\net8.0\05-operador-not.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\obj\Debug\net8.0\05-operador-not.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\obj\Debug\net8.0\05-operador-not.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\obj\Debug\net8.0\05-operador-not.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\obj\Debug\net8.0\refint\05-operador-not.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\obj\Debug\net8.0\05-operador-not.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\obj\Debug\net8.0\05-operador-not.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula4\05-operador-not\obj\Debug\net8.0\ref\05-operador-not.dll
