@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Note\\Desktop\\programando-seu-futuro\\programacao-procedural\\listas\\lista1\\exercicio2\\exercicio2.csproj",
+      "projectUniqueName": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista1\\exercicio2\\exercicio2.csproj",
       "projectName": "exercicio2",
-      "projectPath": "C:\\Users\\Note\\Desktop\\programando-seu-futuro\\programacao-procedural\\listas\\lista1\\exercicio2\\exercicio2.csproj",
+      "projectPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista1\\exercicio2\\exercicio2.csproj",
       "packagesPath": "C:\\Users\\Note\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Note\\Desktop\\programando-seu-futuro\\programacao-procedural\\listas\\lista1\\exercicio2\\obj\\",
+      "outputPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista1\\exercicio2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Note\\AppData\\Roaming\\NuGet\\NuGet.Config"
