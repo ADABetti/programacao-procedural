@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\bin\Debug\net8.0\03-exercicio.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\bin\Debug\net8.0\03-exercicio.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\bin\Debug\net8.0\03-exercicio.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\bin\Debug\net8.0\03-exercicio.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\bin\Debug\net8.0\03-exercicio.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\obj\Debug\net8.0\03-exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\obj\Debug\net8.0\03-exercicio.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\obj\Debug\net8.0\03-exercicio.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\obj\Debug\net8.0\03-exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\obj\Debug\net8.0\03-exercicio.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\obj\Debug\net8.0\03-exercicio.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\obj\Debug\net8.0\refint\03-exercicio.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\obj\Debug\net8.0\03-exercicio.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\obj\Debug\net8.0\03-exercicio.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\03-exercicio\obj\Debug\net8.0\ref\03-exercicio.dll

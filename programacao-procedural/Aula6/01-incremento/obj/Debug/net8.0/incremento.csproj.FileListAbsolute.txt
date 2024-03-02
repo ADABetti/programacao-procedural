@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\bin\Debug\net8.0\incremento.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\bin\Debug\net8.0\incremento.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\bin\Debug\net8.0\incremento.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\bin\Debug\net8.0\incremento.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\bin\Debug\net8.0\incremento.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\obj\Debug\net8.0\incremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\obj\Debug\net8.0\incremento.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\obj\Debug\net8.0\incremento.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\obj\Debug\net8.0\incremento.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\obj\Debug\net8.0\incremento.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\obj\Debug\net8.0\incremento.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\obj\Debug\net8.0\refint\incremento.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\obj\Debug\net8.0\incremento.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\obj\Debug\net8.0\incremento.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\incremento\obj\Debug\net8.0\ref\incremento.dll

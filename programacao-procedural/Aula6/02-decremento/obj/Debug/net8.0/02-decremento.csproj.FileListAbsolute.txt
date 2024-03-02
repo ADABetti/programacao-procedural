@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\bin\Debug\net8.0\02-decremento.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\bin\Debug\net8.0\02-decremento.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\bin\Debug\net8.0\02-decremento.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\bin\Debug\net8.0\02-decremento.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\bin\Debug\net8.0\02-decremento.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\obj\Debug\net8.0\02-decremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\obj\Debug\net8.0\02-decremento.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\obj\Debug\net8.0\02-decremento.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\obj\Debug\net8.0\02-decremento.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\obj\Debug\net8.0\02-decremento.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\obj\Debug\net8.0\02-decremento.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\obj\Debug\net8.0\refint\02-decremento.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\obj\Debug\net8.0\02-decremento.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\obj\Debug\net8.0\02-decremento.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula6\02-decremento\obj\Debug\net8.0\ref\02-decremento.dll
