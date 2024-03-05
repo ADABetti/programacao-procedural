@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\bin\Debug\net8.0\05-for.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\bin\Debug\net8.0\05-for.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\bin\Debug\net8.0\05-for.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\bin\Debug\net8.0\05-for.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\bin\Debug\net8.0\05-for.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\obj\Debug\net8.0\05-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\obj\Debug\net8.0\05-for.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\obj\Debug\net8.0\05-for.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\obj\Debug\net8.0\05-for.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\obj\Debug\net8.0\05-for.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\obj\Debug\net8.0\05-for.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\obj\Debug\net8.0\refint\05-for.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\obj\Debug\net8.0\05-for.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\obj\Debug\net8.0\05-for.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\05-for\obj\Debug\net8.0\ref\05-for.dll

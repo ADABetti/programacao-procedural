@@ -20,7 +20,7 @@ class Program
         // }
 
 
-        //exercicio 2 - Tocar notas ímpara da oitava:
+        //exercicio 2 - Tocar notas ímpares da oitava:
 
         const int TAMANHO_OITAVA = 7;
         int contador = 1;

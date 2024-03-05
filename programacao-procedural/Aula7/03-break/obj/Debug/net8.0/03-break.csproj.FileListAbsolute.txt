@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\bin\Debug\net8.0\03-break.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\bin\Debug\net8.0\03-break.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\bin\Debug\net8.0\03-break.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\bin\Debug\net8.0\03-break.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\bin\Debug\net8.0\03-break.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\obj\Debug\net8.0\03-break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\obj\Debug\net8.0\03-break.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\obj\Debug\net8.0\03-break.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\obj\Debug\net8.0\03-break.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\obj\Debug\net8.0\03-break.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\obj\Debug\net8.0\03-break.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\obj\Debug\net8.0\refint\03-break.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\obj\Debug\net8.0\03-break.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\obj\Debug\net8.0\03-break.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula7\03-break\obj\Debug\net8.0\ref\03-break.dll

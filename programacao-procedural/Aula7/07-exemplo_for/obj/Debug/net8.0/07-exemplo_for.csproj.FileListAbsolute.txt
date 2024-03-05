@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\obj\Debug\net8.0\07-exemplo_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\obj\Debug\net8.0\07-exemplo_for.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\obj\Debug\net8.0\07-exemplo_for.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\obj\Debug\net8.0\07-exemplo_for.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\obj\Debug\net8.0\07-exemplo_for.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\bin\Debug\net8.0\07-exemplo_for.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\bin\Debug\net8.0\07-exemplo_for.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\bin\Debug\net8.0\07-exemplo_for.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\bin\Debug\net8.0\07-exemplo_for.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\bin\Debug\net8.0\07-exemplo_for.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\obj\Debug\net8.0\07-exemplo_for.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\obj\Debug\net8.0\refint\07-exemplo_for.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\obj\Debug\net8.0\07-exemplo_for.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\obj\Debug\net8.0\07-exemplo_for.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\aula7\07-exemplo_for\obj\Debug\net8.0\ref\07-exemplo_for.dll
