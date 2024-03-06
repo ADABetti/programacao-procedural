@@ -1,33 +1,42 @@
 ﻿using System;
 
-class Program{
+class Program
+{
 
-  static void Main (string[] args)
+  static void Main(string[] args)
   {
-    const string USUARIO = "adim";
-    const string SENHA = "123senha";
+
     string usuarioDigitado = "";
     string senhaDigitada = "";
     int contador = 0;
-    
 
-    do 
+
+    do
     {
+
       Console.WriteLine("Digite seu usuario: ");
-      usuarioDigitado = Console.ReadLine(); 
+      usuarioDigitado = Console.ReadLine();
 
       Console.WriteLine("Digite sua senha: ");
-      senhaDigitada = Console.ReadLine(); 
-    
-      contador++;
-        if (contador == 3)
-        {
-          Console.WriteLine("Sua conta foi bloqueada.");
-          break;
-        }
-    }
-    while (usuarioDigitado != USUARIO && senhaDigitada != SENHA);
+      senhaDigitada = Console.ReadLine();
 
-      Console.WriteLine("Login realizado com sucesso.");
+      contador++;
+
+      if (usuarioDigitado == "admin" && senhaDigitada == "123senha")
+      {
+        Console.WriteLine("Login realizado com sucesso.");
+      }
+      else if (contador == 3)
+      {
+        Console.WriteLine("Sua conta foi bloqueada.");
+        break;
+      }
+      else
+      {
+        Console.WriteLine("Senha ou usuário incorreto(s). Tente novamente");
+      }
+    }
+
+    while (usuarioDigitado != "admin" || senhaDigitada != "123senha");
   }
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\aula5\\05-condicao-aninhada\\05-condicao-aninhada.csproj": {}
+    "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Aula5\\05-condicao-aninhada\\05-condicao-aninhada.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\aula5\\05-condicao-aninhada\\05-condicao-aninhada.csproj": {
+    "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Aula5\\05-condicao-aninhada\\05-condicao-aninhada.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\aula5\\05-condicao-aninhada\\05-condicao-aninhada.csproj",
+        "projectUniqueName": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Aula5\\05-condicao-aninhada\\05-condicao-aninhada.csproj",
         "projectName": "05-condicao-aninhada",
-        "projectPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\aula5\\05-condicao-aninhada\\05-condicao-aninhada.csproj",
+        "projectPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Aula5\\05-condicao-aninhada\\05-condicao-aninhada.csproj",
         "packagesPath": "C:\\Users\\Note\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\aula5\\05-condicao-aninhada\\obj\\",
+        "outputPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Aula5\\05-condicao-aninhada\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Note\\AppData\\Roaming\\NuGet\\NuGet.Config"
