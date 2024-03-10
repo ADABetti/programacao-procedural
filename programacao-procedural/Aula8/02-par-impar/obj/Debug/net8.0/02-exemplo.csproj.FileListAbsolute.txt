@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\bin\Debug\net8.0\02-exemplo.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\bin\Debug\net8.0\02-exemplo.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\bin\Debug\net8.0\02-exemplo.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\bin\Debug\net8.0\02-exemplo.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\bin\Debug\net8.0\02-exemplo.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\obj\Debug\net8.0\02-exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\obj\Debug\net8.0\02-exemplo.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\obj\Debug\net8.0\02-exemplo.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\obj\Debug\net8.0\02-exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\obj\Debug\net8.0\02-exemplo.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\obj\Debug\net8.0\02-exemplo.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\obj\Debug\net8.0\refint\02-exemplo.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\obj\Debug\net8.0\02-exemplo.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\obj\Debug\net8.0\02-exemplo.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\02-exemplo\obj\Debug\net8.0\ref\02-exemplo.dll

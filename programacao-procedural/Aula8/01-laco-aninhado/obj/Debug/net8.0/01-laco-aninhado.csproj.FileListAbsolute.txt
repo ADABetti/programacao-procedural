@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\bin\Debug\net8.0\01-laco-aninhado.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\bin\Debug\net8.0\01-laco-aninhado.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\bin\Debug\net8.0\01-laco-aninhado.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\bin\Debug\net8.0\01-laco-aninhado.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\bin\Debug\net8.0\01-laco-aninhado.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\obj\Debug\net8.0\01-laco-aninhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\obj\Debug\net8.0\01-laco-aninhado.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\obj\Debug\net8.0\01-laco-aninhado.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\obj\Debug\net8.0\01-laco-aninhado.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\obj\Debug\net8.0\01-laco-aninhado.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\obj\Debug\net8.0\01-laco-aninhado.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\obj\Debug\net8.0\refint\01-laco-aninhado.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\obj\Debug\net8.0\01-laco-aninhado.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\obj\Debug\net8.0\01-laco-aninhado.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\01-laco-aninhado\obj\Debug\net8.0\ref\01-laco-aninhado.dll

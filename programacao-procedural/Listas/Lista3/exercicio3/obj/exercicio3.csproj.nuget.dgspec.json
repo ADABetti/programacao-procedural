@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista3\\exercicio3\\exercicio3.csproj": {}
+    "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\lista3\\exercicio3\\exercicio3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista3\\exercicio3\\exercicio3.csproj": {
+    "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\lista3\\exercicio3\\exercicio3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista3\\exercicio3\\exercicio3.csproj",
+        "projectUniqueName": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\lista3\\exercicio3\\exercicio3.csproj",
         "projectName": "exercicio3",
-        "projectPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista3\\exercicio3\\exercicio3.csproj",
+        "projectPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\lista3\\exercicio3\\exercicio3.csproj",
         "packagesPath": "C:\\Users\\Note\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista3\\exercicio3\\obj\\",
+        "outputPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\lista3\\exercicio3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Note\\AppData\\Roaming\\NuGet\\NuGet.Config"

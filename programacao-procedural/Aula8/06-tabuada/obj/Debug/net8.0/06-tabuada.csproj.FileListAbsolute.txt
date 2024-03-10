@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\bin\Debug\net8.0\06-tabuada.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\bin\Debug\net8.0\06-tabuada.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\bin\Debug\net8.0\06-tabuada.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\bin\Debug\net8.0\06-tabuada.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\bin\Debug\net8.0\06-tabuada.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\obj\Debug\net8.0\06-tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\obj\Debug\net8.0\06-tabuada.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\obj\Debug\net8.0\06-tabuada.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\obj\Debug\net8.0\06-tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\obj\Debug\net8.0\06-tabuada.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\obj\Debug\net8.0\06-tabuada.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\obj\Debug\net8.0\refint\06-tabuada.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\obj\Debug\net8.0\06-tabuada.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\obj\Debug\net8.0\06-tabuada.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\06-tabuada\obj\Debug\net8.0\ref\06-tabuada.dll

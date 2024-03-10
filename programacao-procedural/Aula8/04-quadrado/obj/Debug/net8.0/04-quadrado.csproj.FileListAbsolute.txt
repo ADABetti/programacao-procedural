@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\obj\Debug\net8.0\04-quadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\obj\Debug\net8.0\04-quadrado.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\obj\Debug\net8.0\04-quadrado.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\obj\Debug\net8.0\04-quadrado.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\obj\Debug\net8.0\04-quadrado.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\bin\Debug\net8.0\04-quadrado.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\bin\Debug\net8.0\04-quadrado.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\bin\Debug\net8.0\04-quadrado.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\bin\Debug\net8.0\04-quadrado.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\bin\Debug\net8.0\04-quadrado.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\obj\Debug\net8.0\04-quadrado.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\obj\Debug\net8.0\refint\04-quadrado.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\obj\Debug\net8.0\04-quadrado.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\obj\Debug\net8.0\04-quadrado.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula8\04-quadrado\obj\Debug\net8.0\ref\04-quadrado.dll
