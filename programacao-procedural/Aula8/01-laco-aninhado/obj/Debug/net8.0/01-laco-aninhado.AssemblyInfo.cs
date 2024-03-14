@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("01-laco-aninhado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a3116af7197ee35e1e3c76466b6aedbeed815d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b83d4649adbd15ad2257eb3dddcca1e946178555")]
 [assembly: System.Reflection.AssemblyProductAttribute("01-laco-aninhado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("01-laco-aninhado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
