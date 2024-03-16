@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\bin\Debug\net8.0\01-contagens-simultaneas.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\bin\Debug\net8.0\01-contagens-simultaneas.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\bin\Debug\net8.0\01-contagens-simultaneas.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\bin\Debug\net8.0\01-contagens-simultaneas.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\bin\Debug\net8.0\01-contagens-simultaneas.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\obj\Debug\net8.0\01-contagens-simultaneas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\obj\Debug\net8.0\01-contagens-simultaneas.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\obj\Debug\net8.0\01-contagens-simultaneas.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\obj\Debug\net8.0\01-contagens-simultaneas.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\obj\Debug\net8.0\01-contagens-simultaneas.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\obj\Debug\net8.0\01-contagens-simultaneas.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\obj\Debug\net8.0\refint\01-contagens-simultaneas.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\obj\Debug\net8.0\01-contagens-simultaneas.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\obj\Debug\net8.0\01-contagens-simultaneas.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\01-contagens-simultaneas\obj\Debug\net8.0\ref\01-contagens-simultaneas.dll

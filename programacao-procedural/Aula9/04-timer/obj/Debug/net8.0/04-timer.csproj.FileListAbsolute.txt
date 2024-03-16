@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\bin\Debug\net8.0\04-timer.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\bin\Debug\net8.0\04-timer.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\bin\Debug\net8.0\04-timer.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\bin\Debug\net8.0\04-timer.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\bin\Debug\net8.0\04-timer.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\obj\Debug\net8.0\04-timer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\obj\Debug\net8.0\04-timer.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\obj\Debug\net8.0\04-timer.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\obj\Debug\net8.0\04-timer.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\obj\Debug\net8.0\04-timer.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\obj\Debug\net8.0\04-timer.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\obj\Debug\net8.0\refint\04-timer.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\obj\Debug\net8.0\04-timer.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\obj\Debug\net8.0\04-timer.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\04-timer\obj\Debug\net8.0\ref\04-timer.dll

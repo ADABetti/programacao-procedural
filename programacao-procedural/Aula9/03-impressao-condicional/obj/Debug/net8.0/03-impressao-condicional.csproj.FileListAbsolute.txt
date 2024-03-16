@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\bin\Debug\net8.0\03-impressao-condicional.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\bin\Debug\net8.0\03-impressao-condicional.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\bin\Debug\net8.0\03-impressao-condicional.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\bin\Debug\net8.0\03-impressao-condicional.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\bin\Debug\net8.0\03-impressao-condicional.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\obj\Debug\net8.0\03-impressao-condicional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\obj\Debug\net8.0\03-impressao-condicional.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\obj\Debug\net8.0\03-impressao-condicional.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\obj\Debug\net8.0\03-impressao-condicional.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\obj\Debug\net8.0\03-impressao-condicional.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\obj\Debug\net8.0\03-impressao-condicional.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\obj\Debug\net8.0\refint\03-impressao-condicional.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\obj\Debug\net8.0\03-impressao-condicional.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\obj\Debug\net8.0\03-impressao-condicional.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\03-impressao-condicional\obj\Debug\net8.0\ref\03-impressao-condicional.dll

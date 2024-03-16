@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\obj\Debug\net8.0\02-positivos-negativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\obj\Debug\net8.0\02-positivos-negativos.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\obj\Debug\net8.0\02-positivos-negativos.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\obj\Debug\net8.0\02-positivos-negativos.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\obj\Debug\net8.0\02-positivos-negativos.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\bin\Debug\net8.0\02-positivos-negativos.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\bin\Debug\net8.0\02-positivos-negativos.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\bin\Debug\net8.0\02-positivos-negativos.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\bin\Debug\net8.0\02-positivos-negativos.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\bin\Debug\net8.0\02-positivos-negativos.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\obj\Debug\net8.0\02-positivos-negativos.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\obj\Debug\net8.0\refint\02-positivos-negativos.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\obj\Debug\net8.0\02-positivos-negativos.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\obj\Debug\net8.0\02-positivos-negativos.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula9\02-positivos-negativos\obj\Debug\net8.0\ref\02-positivos-negativos.dll
