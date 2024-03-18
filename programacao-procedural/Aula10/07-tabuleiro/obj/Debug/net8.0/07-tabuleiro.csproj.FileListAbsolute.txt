@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\bin\Debug\net8.0\07-tabuleiro.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\bin\Debug\net8.0\07-tabuleiro.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\bin\Debug\net8.0\07-tabuleiro.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\bin\Debug\net8.0\07-tabuleiro.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\bin\Debug\net8.0\07-tabuleiro.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\obj\Debug\net8.0\07-tabuleiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\obj\Debug\net8.0\07-tabuleiro.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\obj\Debug\net8.0\07-tabuleiro.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\obj\Debug\net8.0\07-tabuleiro.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\obj\Debug\net8.0\07-tabuleiro.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\obj\Debug\net8.0\07-tabuleiro.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\obj\Debug\net8.0\refint\07-tabuleiro.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\obj\Debug\net8.0\07-tabuleiro.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\obj\Debug\net8.0\07-tabuleiro.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\07-tabuleiro\obj\Debug\net8.0\ref\07-tabuleiro.dll

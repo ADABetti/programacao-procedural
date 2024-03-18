@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\bin\Debug\net8.0\01-contar-3.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\bin\Debug\net8.0\01-contar-3.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\bin\Debug\net8.0\01-contar-3.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\bin\Debug\net8.0\01-contar-3.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\bin\Debug\net8.0\01-contar-3.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\obj\Debug\net8.0\01-contar-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\obj\Debug\net8.0\01-contar-3.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\obj\Debug\net8.0\01-contar-3.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\obj\Debug\net8.0\01-contar-3.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\obj\Debug\net8.0\01-contar-3.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\obj\Debug\net8.0\01-contar-3.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\obj\Debug\net8.0\refint\01-contar-3.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\obj\Debug\net8.0\01-contar-3.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\obj\Debug\net8.0\01-contar-3.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\01-contar-3\obj\Debug\net8.0\ref\01-contar-3.dll

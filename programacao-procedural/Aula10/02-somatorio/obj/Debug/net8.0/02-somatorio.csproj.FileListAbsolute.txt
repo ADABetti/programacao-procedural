@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\obj\Debug\net8.0\02-somatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\obj\Debug\net8.0\02-somatorio.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\obj\Debug\net8.0\02-somatorio.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\obj\Debug\net8.0\02-somatorio.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\obj\Debug\net8.0\02-somatorio.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\bin\Debug\net8.0\02-somatorio.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\bin\Debug\net8.0\02-somatorio.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\bin\Debug\net8.0\02-somatorio.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\bin\Debug\net8.0\02-somatorio.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\bin\Debug\net8.0\02-somatorio.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\obj\Debug\net8.0\02-somatorio.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\obj\Debug\net8.0\refint\02-somatorio.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\obj\Debug\net8.0\02-somatorio.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\obj\Debug\net8.0\02-somatorio.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula10\02-somatorio\obj\Debug\net8.0\ref\02-somatorio.dll
