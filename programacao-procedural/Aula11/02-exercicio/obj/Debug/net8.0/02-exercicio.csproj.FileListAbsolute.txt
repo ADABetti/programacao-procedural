@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\obj\Debug\net8.0\02-exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\obj\Debug\net8.0\02-exercicio.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\obj\Debug\net8.0\02-exercicio.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\obj\Debug\net8.0\02-exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\obj\Debug\net8.0\02-exercicio.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\bin\Debug\net8.0\02-exercicio.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\bin\Debug\net8.0\02-exercicio.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\bin\Debug\net8.0\02-exercicio.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\bin\Debug\net8.0\02-exercicio.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\bin\Debug\net8.0\02-exercicio.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\obj\Debug\net8.0\02-exercicio.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\obj\Debug\net8.0\refint\02-exercicio.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\obj\Debug\net8.0\02-exercicio.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\obj\Debug\net8.0\02-exercicio.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\02-exercicio\obj\Debug\net8.0\ref\02-exercicio.dll

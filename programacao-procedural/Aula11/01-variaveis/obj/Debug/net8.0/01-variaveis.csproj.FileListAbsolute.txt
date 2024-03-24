@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\bin\Debug\net8.0\01-variaveis.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\bin\Debug\net8.0\01-variaveis.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\bin\Debug\net8.0\01-variaveis.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\bin\Debug\net8.0\01-variaveis.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\bin\Debug\net8.0\01-variaveis.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\obj\Debug\net8.0\01-variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\obj\Debug\net8.0\01-variaveis.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\obj\Debug\net8.0\01-variaveis.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\obj\Debug\net8.0\01-variaveis.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\obj\Debug\net8.0\01-variaveis.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\obj\Debug\net8.0\01-variaveis.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\obj\Debug\net8.0\refint\01-variaveis.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\obj\Debug\net8.0\01-variaveis.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\obj\Debug\net8.0\01-variaveis.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\01-variaveis\obj\Debug\net8.0\ref\01-variaveis.dll

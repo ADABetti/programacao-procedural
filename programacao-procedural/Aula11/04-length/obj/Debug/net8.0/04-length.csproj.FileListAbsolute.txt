@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\bin\Debug\net8.0\04-length.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\bin\Debug\net8.0\04-length.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\bin\Debug\net8.0\04-length.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\bin\Debug\net8.0\04-length.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\bin\Debug\net8.0\04-length.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\obj\Debug\net8.0\04-length.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\obj\Debug\net8.0\04-length.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\obj\Debug\net8.0\04-length.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\obj\Debug\net8.0\04-length.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\obj\Debug\net8.0\04-length.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\obj\Debug\net8.0\04-length.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\obj\Debug\net8.0\refint\04-length.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\obj\Debug\net8.0\04-length.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\obj\Debug\net8.0\04-length.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula11\04-length\obj\Debug\net8.0\ref\04-length.dll

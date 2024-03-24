@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista5\\exercicio5\\exercicio5.csproj": {}
+    "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\LIsta5\\exercicio5\\exercicio5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista5\\exercicio5\\exercicio5.csproj": {
+    "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\LIsta5\\exercicio5\\exercicio5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista5\\exercicio5\\exercicio5.csproj",
+        "projectUniqueName": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\LIsta5\\exercicio5\\exercicio5.csproj",
         "projectName": "exercicio5",
-        "projectPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista5\\exercicio5\\exercicio5.csproj",
+        "projectPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\LIsta5\\exercicio5\\exercicio5.csproj",
         "packagesPath": "C:\\Users\\Note\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\Lista5\\exercicio5\\obj\\",
+        "outputPath": "C:\\Users\\Note\\Desktop\\programacao\\programando-seu-futuro\\programacao-procedural\\Listas\\LIsta5\\exercicio5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Note\\AppData\\Roaming\\NuGet\\NuGet.Config"
