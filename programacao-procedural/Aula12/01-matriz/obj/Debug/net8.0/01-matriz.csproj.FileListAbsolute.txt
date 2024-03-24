@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\bin\Debug\net8.0\01-matriz.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\bin\Debug\net8.0\01-matriz.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\bin\Debug\net8.0\01-matriz.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\bin\Debug\net8.0\01-matriz.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\bin\Debug\net8.0\01-matriz.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\obj\Debug\net8.0\01-matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\obj\Debug\net8.0\01-matriz.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\obj\Debug\net8.0\01-matriz.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\obj\Debug\net8.0\01-matriz.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\obj\Debug\net8.0\01-matriz.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\obj\Debug\net8.0\01-matriz.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\obj\Debug\net8.0\refint\01-matriz.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\obj\Debug\net8.0\01-matriz.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\obj\Debug\net8.0\01-matriz.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula12\01-matriz\obj\Debug\net8.0\ref\01-matriz.dll
