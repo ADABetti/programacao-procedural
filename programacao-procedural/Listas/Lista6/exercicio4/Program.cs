@@ -4,10 +4,12 @@ class Program
 {
   static void Main(string[] args)
   {
+    // Criar matriz:
     const int QUANTIDADE_LINHAS = 3;
     const int QUANTIDADE_COLUNAS = 3;
     int[,] matriz = new int[QUANTIDADE_LINHAS, QUANTIDADE_COLUNAS];
 
+    // Preencher matriz:
     for (int linha = 0; linha < QUANTIDADE_LINHAS; linha++)
     {
       for (int coluna = 0; coluna < QUANTIDADE_COLUNAS; coluna++)
@@ -23,12 +25,12 @@ class Program
       }
     }
 
+    // Imprimir matriz: 
     for (int linha = 0; linha < QUANTIDADE_LINHAS; linha++)
     {
       for (int coluna = 0; coluna < QUANTIDADE_COLUNAS; coluna++)
       {
-        Console.Write(matriz[linha, coluna]);
-        Console.Write("|");
+        Console.Write(matriz[linha, coluna] + "|");
       }
       Console.WriteLine();
     }
