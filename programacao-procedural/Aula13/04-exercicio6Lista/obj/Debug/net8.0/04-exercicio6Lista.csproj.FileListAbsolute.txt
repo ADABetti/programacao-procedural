@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\obj\Debug\net8.0\04-exercicio6Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\obj\Debug\net8.0\04-exercicio6Lista.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\obj\Debug\net8.0\04-exercicio6Lista.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\obj\Debug\net8.0\04-exercicio6Lista.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\obj\Debug\net8.0\04-exercicio6Lista.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\bin\Debug\net8.0\04-exercicio6Lista.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\bin\Debug\net8.0\04-exercicio6Lista.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\bin\Debug\net8.0\04-exercicio6Lista.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\bin\Debug\net8.0\04-exercicio6Lista.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\bin\Debug\net8.0\04-exercicio6Lista.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\obj\Debug\net8.0\04-exercicio6Lista.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\obj\Debug\net8.0\refint\04-exercicio6Lista.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\obj\Debug\net8.0\04-exercicio6Lista.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\obj\Debug\net8.0\04-exercicio6Lista.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula13\04-exercicio6Lista\obj\Debug\net8.0\ref\04-exercicio6Lista.dll
