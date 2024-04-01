@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\bin\Debug\net8.0\08-negando-funcao.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\bin\Debug\net8.0\08-negando-funcao.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\bin\Debug\net8.0\08-negando-funcao.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\bin\Debug\net8.0\08-negando-funcao.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\bin\Debug\net8.0\08-negando-funcao.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\obj\Debug\net8.0\08-negando-funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\obj\Debug\net8.0\08-negando-funcao.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\obj\Debug\net8.0\08-negando-funcao.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\obj\Debug\net8.0\08-negando-funcao.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\obj\Debug\net8.0\08-negando-funcao.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\obj\Debug\net8.0\08-negando-funcao.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\obj\Debug\net8.0\refint\08-negando-funcao.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\obj\Debug\net8.0\08-negando-funcao.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\obj\Debug\net8.0\08-negando-funcao.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\08-negando-funcao\obj\Debug\net8.0\ref\08-negando-funcao.dll

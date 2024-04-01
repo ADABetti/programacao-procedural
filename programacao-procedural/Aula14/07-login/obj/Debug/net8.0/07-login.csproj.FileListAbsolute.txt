@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\obj\Debug\net8.0\07-login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\obj\Debug\net8.0\07-login.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\obj\Debug\net8.0\07-login.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\obj\Debug\net8.0\07-login.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\obj\Debug\net8.0\07-login.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\bin\Debug\net8.0\07-login.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\bin\Debug\net8.0\07-login.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\bin\Debug\net8.0\07-login.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\bin\Debug\net8.0\07-login.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\bin\Debug\net8.0\07-login.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\obj\Debug\net8.0\07-login.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\obj\Debug\net8.0\refint\07-login.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\obj\Debug\net8.0\07-login.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\obj\Debug\net8.0\07-login.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\07-login\obj\Debug\net8.0\ref\07-login.dll

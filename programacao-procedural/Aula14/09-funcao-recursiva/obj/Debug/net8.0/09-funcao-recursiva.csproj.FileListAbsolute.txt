@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\obj\Debug\net8.0\09-funcao-recursiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\obj\Debug\net8.0\09-funcao-recursiva.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\obj\Debug\net8.0\09-funcao-recursiva.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\obj\Debug\net8.0\09-funcao-recursiva.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\obj\Debug\net8.0\09-funcao-recursiva.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\bin\Debug\net8.0\09-funcao-recursiva.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\bin\Debug\net8.0\09-funcao-recursiva.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\bin\Debug\net8.0\09-funcao-recursiva.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\bin\Debug\net8.0\09-funcao-recursiva.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\bin\Debug\net8.0\09-funcao-recursiva.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\obj\Debug\net8.0\09-funcao-recursiva.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\obj\Debug\net8.0\refint\09-funcao-recursiva.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\obj\Debug\net8.0\09-funcao-recursiva.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\obj\Debug\net8.0\09-funcao-recursiva.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\09-funcao-recursiva\obj\Debug\net8.0\ref\09-funcao-recursiva.dll

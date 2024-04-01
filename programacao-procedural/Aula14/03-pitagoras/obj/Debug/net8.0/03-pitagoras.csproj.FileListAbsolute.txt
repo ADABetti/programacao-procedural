@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\obj\Debug\net8.0\03-pitagoras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\obj\Debug\net8.0\03-pitagoras.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\obj\Debug\net8.0\03-pitagoras.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\obj\Debug\net8.0\03-pitagoras.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\obj\Debug\net8.0\03-pitagoras.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\bin\Debug\net8.0\03-pitagoras.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\bin\Debug\net8.0\03-pitagoras.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\bin\Debug\net8.0\03-pitagoras.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\bin\Debug\net8.0\03-pitagoras.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\bin\Debug\net8.0\03-pitagoras.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\obj\Debug\net8.0\03-pitagoras.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\obj\Debug\net8.0\refint\03-pitagoras.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\obj\Debug\net8.0\03-pitagoras.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\obj\Debug\net8.0\03-pitagoras.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\03-pitagoras\obj\Debug\net8.0\ref\03-pitagoras.dll

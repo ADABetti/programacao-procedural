@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\bin\Debug\net8.0\01-classe-Math.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\bin\Debug\net8.0\01-classe-Math.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\bin\Debug\net8.0\01-classe-Math.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\bin\Debug\net8.0\01-classe-Math.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\bin\Debug\net8.0\01-classe-Math.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\obj\Debug\net8.0\01-classe-Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\obj\Debug\net8.0\01-classe-Math.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\obj\Debug\net8.0\01-classe-Math.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\obj\Debug\net8.0\01-classe-Math.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\obj\Debug\net8.0\01-classe-Math.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\obj\Debug\net8.0\01-classe-Math.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\obj\Debug\net8.0\refint\01-classe-Math.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\obj\Debug\net8.0\01-classe-Math.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\obj\Debug\net8.0\01-classe-Math.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\01-classe-Math\obj\Debug\net8.0\ref\01-classe-Math.dll

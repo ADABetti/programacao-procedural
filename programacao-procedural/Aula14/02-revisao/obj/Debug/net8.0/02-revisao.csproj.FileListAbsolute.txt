@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\obj\Debug\net8.0\02-revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\obj\Debug\net8.0\02-revisao.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\obj\Debug\net8.0\02-revisao.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\obj\Debug\net8.0\02-revisao.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\obj\Debug\net8.0\02-revisao.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\bin\Debug\net8.0\02-revisao.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\bin\Debug\net8.0\02-revisao.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\bin\Debug\net8.0\02-revisao.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\bin\Debug\net8.0\02-revisao.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\bin\Debug\net8.0\02-revisao.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\obj\Debug\net8.0\02-revisao.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\obj\Debug\net8.0\refint\02-revisao.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\obj\Debug\net8.0\02-revisao.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\obj\Debug\net8.0\02-revisao.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\02-revisao\obj\Debug\net8.0\ref\02-revisao.dll

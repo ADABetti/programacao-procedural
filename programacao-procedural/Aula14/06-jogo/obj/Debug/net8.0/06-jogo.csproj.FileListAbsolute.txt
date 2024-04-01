@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\obj\Debug\net8.0\06-jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\obj\Debug\net8.0\06-jogo.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\obj\Debug\net8.0\06-jogo.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\obj\Debug\net8.0\06-jogo.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\obj\Debug\net8.0\06-jogo.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\bin\Debug\net8.0\06-jogo.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\bin\Debug\net8.0\06-jogo.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\bin\Debug\net8.0\06-jogo.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\bin\Debug\net8.0\06-jogo.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\bin\Debug\net8.0\06-jogo.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\obj\Debug\net8.0\06-jogo.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\obj\Debug\net8.0\refint\06-jogo.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\obj\Debug\net8.0\06-jogo.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\obj\Debug\net8.0\06-jogo.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\06-jogo\obj\Debug\net8.0\ref\06-jogo.dll

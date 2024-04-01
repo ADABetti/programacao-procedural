@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\bin\Debug\net8.0\04-funcao-parametro.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\bin\Debug\net8.0\04-funcao-parametro.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\bin\Debug\net8.0\04-funcao-parametro.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\bin\Debug\net8.0\04-funcao-parametro.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\bin\Debug\net8.0\04-funcao-parametro.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\obj\Debug\net8.0\04-funcao-parametro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\obj\Debug\net8.0\04-funcao-parametro.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\obj\Debug\net8.0\04-funcao-parametro.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\obj\Debug\net8.0\04-funcao-parametro.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\obj\Debug\net8.0\04-funcao-parametro.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\obj\Debug\net8.0\04-funcao-parametro.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\obj\Debug\net8.0\refint\04-funcao-parametro.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\obj\Debug\net8.0\04-funcao-parametro.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\obj\Debug\net8.0\04-funcao-parametro.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula14\04-funcao-parametro\obj\Debug\net8.0\ref\04-funcao-parametro.dll
