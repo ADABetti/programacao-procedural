@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\bin\Debug\net8.0\03-vetor-struct.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\bin\Debug\net8.0\03-vetor-struct.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\bin\Debug\net8.0\03-vetor-struct.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\bin\Debug\net8.0\03-vetor-struct.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\bin\Debug\net8.0\03-vetor-struct.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\obj\Debug\net8.0\03-vetor-struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\obj\Debug\net8.0\03-vetor-struct.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\obj\Debug\net8.0\03-vetor-struct.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\obj\Debug\net8.0\03-vetor-struct.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\obj\Debug\net8.0\03-vetor-struct.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\obj\Debug\net8.0\03-vetor-struct.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\obj\Debug\net8.0\refint\03-vetor-struct.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\obj\Debug\net8.0\03-vetor-struct.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\obj\Debug\net8.0\03-vetor-struct.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\03-vetor-struct\obj\Debug\net8.0\ref\03-vetor-struct.dll

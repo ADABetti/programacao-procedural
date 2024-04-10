@@ -1,0 +1,15 @@
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\obj\Debug\net8.0\05-parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\obj\Debug\net8.0\05-parametros.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\obj\Debug\net8.0\05-parametros.AssemblyInfo.cs
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\obj\Debug\net8.0\05-parametros.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\obj\Debug\net8.0\05-parametros.sourcelink.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\bin\Debug\net8.0\05-parametros.exe
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\bin\Debug\net8.0\05-parametros.deps.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\bin\Debug\net8.0\05-parametros.runtimeconfig.json
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\bin\Debug\net8.0\05-parametros.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\bin\Debug\net8.0\05-parametros.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\obj\Debug\net8.0\05-parametros.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\obj\Debug\net8.0\refint\05-parametros.dll
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\obj\Debug\net8.0\05-parametros.pdb
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\obj\Debug\net8.0\05-parametros.genruntimeconfig.cache
+C:\Users\Note\Desktop\programacao\programando-seu-futuro\programacao-procedural\Aula15\05-parametros\obj\Debug\net8.0\ref\05-parametros.dll
